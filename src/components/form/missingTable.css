@@ -1,0 +1,53 @@
+.missing-people {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .findMeTable {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .findMeTable th,
+  .findMeTable td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .findMeTable button {
+    background-color: #010a14;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+  }
+  
+  .findMeTable button:hover {
+    background-color: #010e1c;
+  }
+  
+
+
+.searchBar {
+    margin-bottom: 20px; 
+  }
+  
+  .searchInput {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+  
+
+  .searchInput:focus {
+    border-color: #007bff;
+  }
+  
